@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://camilo-camargo.github.io/guides/es/blog</id>
+    <title>Guides Blog</title>
+    <updated>2023-04-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://camilo-camargo.github.io/guides/es/blog"/>
+    <subtitle>Guides Blog</subtitle>
+    <icon>https://camilo-camargo.github.io/guides/es/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://camilo-camargo.github.io/guides/es/blog/welcome</id>
+        <link href="https://camilo-camargo.github.io/guides/es/blog/welcome"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Guides, you can save your guidelines writing in Markdown.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Guides, you can save your guidelines writing in Markdown.</p>]]></content>
+        <author>
+            <name>Camilo Andres Camargo Castaneda</name>
+            <uri>https://github.com/camilo-camargo</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>

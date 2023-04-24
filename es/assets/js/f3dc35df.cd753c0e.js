@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguides=self.webpackChunkguides||[]).push([[190],{3308:e=>{e.exports=JSON.parse('{"title":"Java","slug":"/category/java","permalink":"/guides/es/docs/category/java","navigation":{"previous":{"title":"Programaci\xf3n","permalink":"/guides/es/docs/category/programming"},"next":{"title":"JMeter","permalink":"/guides/es/docs/category/jmeter"}}}')}}]);
