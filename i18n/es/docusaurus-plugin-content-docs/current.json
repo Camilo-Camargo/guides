@@ -1,0 +1,23 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "La etiqueta para la versión actual"
+  },
+  "sidebar.tutorialSidebar.category.Programming": {
+    "message": "Programación",
+    "description": "La etiqueta para la categoría Programación en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Programming.link.generated-index.description": {
+    "message": "Alguna descripción",
+    "description": "La descripción de la página generated-index para la categoría Programación en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Java": {
+    "message": "Java",
+    "description": "La etiqueta para la categoría Java en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JMeter": {
+    "message": "JMeter",
+    "description": "La etiqueta para la categoría JMeter en la barra lateral tutorialSidebar"
+  }
+}
+
